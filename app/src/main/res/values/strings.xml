@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App de colores</string>
+    <string name="tipo">color primario</string>
+    <string name="descrip">Azul</string>
+    <string name="mensaje">Somos un planeta azul y un mundo oceánico</string>
+
+
+
+</resources>
+<string name="titulo">App de colores</string>
+<string name="bienvenida">Gracias por aprender los colores con nosotros</string>
+<string name="rojo">Rojo </string>
+<string name="azul">Azul</string>
+<string name="amarillo">Amarillo</string>
+<string name="verde">Verde</string>
+<string name="cafe">Cafe</string>
+<string name="negro">Negro</string>
+<string name="morado">Morado</string>
+
